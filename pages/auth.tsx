@@ -68,7 +68,7 @@ const Auth = () => {
   }, [email, name, password, login]);
 
   return (
-    <div className="relative h-full w-full bg-[url('/images/hero.jpg')] bg-no-repeat bg-center bg-fixed bg-cover">
+    <div className="relative h-full w-full bg-[url('/images/sixsmith_An_avant-garde_and_artistic_theatre_space_transformed__64a5ec50-76ed-40fc-8625-3964502f1a9a.png')] bg-no-repeat bg-center bg-fixed bg-cover">
       <div className="bg-black w-full h-full lg:bg-opacity-50">
         <nav className="px-12 py-5">
           <img src="/images/cinema-6-01.jpg" className="h-12" alt="Logo" />
