@@ -6,10 +6,10 @@ import { useCallback } from "react";
 import useCurrentUser from "@/hooks/useCurrentUser";
 
 const images = [
-  '/images/default-blue.png',
-  '/images/default-red.png',
-  '/images/default-slate.png',
-  '/images/default-green.png'
+  '/images/girl-2.jpg',
+  '/images/bird.jpg',
+  '/images/hand.jpg',
+  '/images/bouquet.jpg'
 ]
 
 interface UserCardProps {
